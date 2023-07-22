@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-poppins: Poppins;
+  --title: Urbanist;
+  --font-inherit: inherit;
+  --font-sigustil: Sigustil;
+  --font-six-caps: "Six Caps";
+  --font-anton: Anton;
+  --font-vampiro-one: "Vampiro One";
+  --font-bebas-neue: "Bebas Neue";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-mid: 17px;
+  --title-size: 18px;
+  --font-size-26xl: 45px;
+  --font-size-74xl: 93px;
+  --font-size-10xl: 29px;
+  --font-size-2xl: 21px;
+  --font-size-3xl: 22px;
+  --font-size-7xl: 26px;
+  --font-size-31xl: 50px;
+  --font-size-151xl: 170px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-lgi: 19px;
+  --font-size-smi: 13px;
+  --font-size-2xs: 11px;
+  --font-size-314xl: 333px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --shoot3-stroke: #ebefff;
+  --color-dodgerblue-100: #0d83f2;
+  --color-dodgerblue-200: #1079db;
+  --color-dodgerblue-300: #046dcf;
+  --color-gray-100: #fefefe;
+  --color-gray-200: #2b2b2b;
+  --color-gray-300: #0f0f0f;
+  --color-gray-400: rgba(255, 255, 255, 0.1);
+  --color-whitesmoke-100: #f8f8f8;
+  --color-whitesmoke-200: #efefef;
+  --color-gainsboro: #e6e6e6;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-4xs: 9px;
+}
